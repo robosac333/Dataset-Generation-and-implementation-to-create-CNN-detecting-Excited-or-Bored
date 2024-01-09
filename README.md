@@ -11,6 +11,10 @@ https://github.com/ultralytics/yolov5
 LabelImg to create Annotation boxes
 https://github.com/tzutalin/labelImg
 
+1. Git Clone the YOLOV5 and llabelImg Repositories
+2. Create a data/images and data/labels folder in the workspace
+3. Run the script. The current script was built to be inline with on Jupyter Notebook in Anaconda Navigator on Windows 11.
+
 # Excited feature snap
 
 <img width="323" alt="image" src="https://github.com/robosac333/Dataset-Generation-and-implementation-to-create-CNN-detecting-Excited-or-Bored/assets/143353582/15796356-41bc-458e-ba49-84bc0e611a03">
