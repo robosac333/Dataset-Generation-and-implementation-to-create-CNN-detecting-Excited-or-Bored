@@ -2,6 +2,15 @@
 
 Created a dataset to detect Excited and Bored Features which using YOLOV5 model.
 
+Setup Pytorch library compatible with your system requirements
+https://pytorch.org/get-started/locally/
+
+Setup the YOLOV5 directory
+https://github.com/ultralytics/yolov5
+
+LabelImg to create Annotation boxes
+https://github.com/tzutalin/labelImg
+
 # Excited feature snap
 
 <img width="323" alt="image" src="https://github.com/robosac333/Dataset-Generation-and-implementation-to-create-CNN-detecting-Excited-or-Bored/assets/143353582/15796356-41bc-458e-ba49-84bc0e611a03">
